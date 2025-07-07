@@ -1,5 +1,3 @@
-# E-Commerce_Web_Application
-
 # ShopZone - Full-Stack E-commerce Application
 
 A modern, responsive e-commerce platform built with Angular frontend and Node.js/Express backend, featuring MySQL database integration.
